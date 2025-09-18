@@ -52,5 +52,12 @@ Contiene información de **30.000 clientes**, con variables demográficas, histo
 - Se identifica la necesidad de técnicas de balanceo de clases o enriquecimiento de variables.
 
 ---
-
+## 📂 Estructura de las carpetas
+portfolio-financiero/
+│
+├── data/              # dataset original y transformado (csv, parquet)
+├── notebooks/         # notebooks de Jupyter/Colab (.ipynb)
+├── sql/               # consultas SQL (ejercicios y análisis)
+├── docs/              # imágenes, capturas de gráficos, documentación
+└── README.md          # descripción del proyecto
 ##
