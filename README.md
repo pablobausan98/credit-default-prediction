@@ -53,6 +53,7 @@ Contiene información de **30.000 clientes**, con variables demográficas, histo
 
 ---
 ## 📂 Estructura de las carpetas
+```bash
 portfolio-financiero/
 │
 ├── data/              # dataset original y transformado (csv, parquet)
@@ -60,4 +61,5 @@ portfolio-financiero/
 ├── sql/               # consultas SQL (ejercicios y análisis)
 ├── docs/              # imágenes, capturas de gráficos, documentación
 └── README.md          # descripción del proyecto
+```
 ##
